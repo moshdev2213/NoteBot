@@ -88,10 +88,12 @@ User Query      ➜ Retriever ➜ LLM (Gemini Flash) ➜ Answer
 
 ```
 👩‍🎓 You: What is Docker?
-🤖 Bot: Gemini Flash is optimized for speed and low latency, making it ideal for real-time chatbots, while Pro offers more advanced capabilities at the cost of performance.
+🤖 Bot: Docker is a container engine that packages and runs applications in loosely isolated environments. It provides tooling and a platform to manage the lifecycle of containers, allowing developers to develop, distribute, test, and deploy applications as containers. Docker as a concept can refer to a company, product, platform, CLI tool, or computer program.
+.
 
 👩‍🎓 You: What is Kubernetes?
-🤖 Bot: The notes are broken into 1000-character chunks, embedded using Google's embedding-001 model, and stored in Chroma for efficient retrieval.
+🤖 Bot: Kubernetes (k8s) is an open-source platform for automating deployment,      
+
 ```
 
 ---
